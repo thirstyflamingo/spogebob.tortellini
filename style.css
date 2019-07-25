@@ -8,7 +8,7 @@ main {
    'aside article article'
   'aside footer footer';
   grid-gap: 30px;
-  
+}
 aside {
   grid-area: aside;
   background: #FCE4EC;
