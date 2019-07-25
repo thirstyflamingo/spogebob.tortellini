@@ -1,8 +1,11 @@
 header{
-  background-color: #DB7F9D;
+  padding: 30x
+  background-: #DB7F9D;
   background-image: url;('https://images.unsplash.com/photo-1521133573892-e44906baee46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60'):
+  background-size: cover;
+  background-attachment: fixed;
 }
-
+  
 main {
   display: grid;
   grid-template-areas:
