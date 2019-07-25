@@ -10,13 +10,16 @@ main {
   grid-gap: 30px;
   
 aside {
+  grid-area: aside;
   background: #FCE4EC;
 }
     
 article {
+  grid-area: article;
   background: #ffffff;
 }
 
 footer {
+  grid-area: footer;
   background: #F7A0BD;
 }
